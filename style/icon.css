@@ -1,0 +1,27 @@
+.icon_1::before{
+    content: '';
+}
+
+/* 
+.korzina::before{
+    content: '\f217';
+    color: white;
+    position: absolute;
+} */
+
+
+/* 
+/* 
+.icon_nav::before{
+    content: '\f142';
+    color: blue;
+    font-weight: 900;
+    /* position: absolute; */
+
+
+/* 
+.icon_nav::after{
+    content: '\10f142';
+    color: aliceblue;
+    font-weight: 900;
+}    */
